@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de9cb15a-06b4-4a7b-a53a-084900db2a68" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xg3bJgL03It7cPWDMcntEFnK6w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/BrowserDrivers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Prakash\IdeaProjects\Webexersice\src\test\java\BrowserDrivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ReusableMethods.ocadoReg">
+    <configuration name="ReusableMethods.autoTestPracticeReg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Webexersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReusableMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ReusableMethod" />
+      <option name="MAIN_CLASS_NAME" value="ReusableMethod.ReusableMethods" />
+      <option name="METHOD_NAME" value="autoTestPracticeReg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReusableMethods.mockPlusRegistartion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Webexersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReusableMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ReusableMethod" />
+      <option name="MAIN_CLASS_NAME" value="ReusableMethod.ReusableMethods" />
+      <option name="METHOD_NAME" value="mockPlusRegistartion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReusableMethods.ocadoReg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Webexersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReusableMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ReusableMethod" />
+      <option name="MAIN_CLASS_NAME" value="ReusableMethod.ReusableMethods" />
+      <option name="METHOD_NAME" value="ocadoReg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReusableMethods.orangeHrmRegistration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Webexersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReusableMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ReusableMethod" />
+      <option name="MAIN_CLASS_NAME" value="ReusableMethod.ReusableMethods" />
+      <option name="METHOD_NAME" value="orangeHrmRegistration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReusableMethods.zaraRegistartion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Webexersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReusableMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ReusableMethod" />
+      <option name="MAIN_CLASS_NAME" value="ReusableMethod.ReusableMethods" />
+      <option name="METHOD_NAME" value="zaraRegistartion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReusableMethods.ocadoReg" />
+        <item itemvalue="JUnit.ReusableMethods.zaraRegistartion" />
+        <item itemvalue="JUnit.ReusableMethods.mockPlusRegistartion" />
+        <item itemvalue="JUnit.ReusableMethods.autoTestPracticeReg" />
+        <item itemvalue="JUnit.ReusableMethods.orangeHrmRegistration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de9cb15a-06b4-4a7b-a53a-084900db2a68" name="Default Changelist" comment="" />
+      <created>1581453982194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581453982194</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1581455399237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581455399237" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581537610460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581537610460" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581537610459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581537610459" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581537610459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581537610459" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581537610459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581537610459" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1581465225075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1581465225075" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1581453998963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581453998963" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1581459278768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1581459278768" />
+  </component>
+</project>
